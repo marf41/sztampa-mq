@@ -1,0 +1,2 @@
+gpm -R -m /dev/psaux -t autops2
+hostname Compaq
